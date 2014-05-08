@@ -1,0 +1,4 @@
+xbos
+====
+
+xBOS admin template
